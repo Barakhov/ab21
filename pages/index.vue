@@ -1,5 +1,5 @@
 <template>
-  <Tutorial />
+  <FontsSample />
 </template>
 
 <script>
