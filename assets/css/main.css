@@ -25,9 +25,10 @@ p {
 a {
   color: #c60e1c;
   text-decoration: underline;
-  /* &:hover {
-    text-decoration: none;
-  } */
+}
+
+a:hover {
+  text-decoration: none;
 }
 
 h1,
